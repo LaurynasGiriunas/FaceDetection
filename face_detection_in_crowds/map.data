@@ -1,0 +1,6 @@
+classes= 1
+train  = map_train.txt
+valid  = map_test.txt
+names = obj.names
+backup = map_backup/
+

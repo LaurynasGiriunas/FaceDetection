@@ -1,0 +1,5 @@
+classes= 
+train  = train.txt
+valid  = test.txt
+names = face.names
+backup = backup/
