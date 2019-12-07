@@ -1,0 +1,1 @@
+For the algorithm to work, trained weights should be downloaded from https://www.dropbox.com/sh/k1rxvstk3k30g6m/AACW6TI0GTiY-rz-Uwzt8w7xa?dl=0 and placed in "Backup" folder, as Github does not allow to upload big files
